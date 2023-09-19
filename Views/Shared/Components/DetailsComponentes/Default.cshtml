@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Componente>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.TipoComponente)
+            </th>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.Serie)
+            </th>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.Calor)
+            </th>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.Almacenamiento)
+            </th>
+            <th class="text-secondary">
+                @Html.DisplayNameFor(model => model.Cores)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @await Component.InvokeAsync("Componente", new {componente = item});
+            </tr>
+        }
+    </tbody>
+</table>

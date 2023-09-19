@@ -1,0 +1,27 @@
+﻿@model MVC_ComponenteCodeFirst.Models.Ordenador
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.Name)</h4>
+
+    <hr />
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Precio)</th>
+            <td>@Html.DisplayFor(model => model.Precio)</td>
+        </tr>
+        <tr>
+            <th>
+                Componentes
+            </th>
+            <td>
+                @await Component.InvokeAsync("DetailsComponentes", new{lista =Model.Componentes})
+            </td>
+        </tr>
+    </table>
+</div>

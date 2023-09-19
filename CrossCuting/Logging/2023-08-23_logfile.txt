@@ -1,0 +1,16 @@
+2023-08-23 08:52:48.0283 INFO Mostrando todos los componentes
+2023-08-23 09:02:14.8399 INFO Mostrando todos los componentes
+2023-08-23 09:04:41.0928 INFO Mostrando todos los componentes
+2023-08-23 09:15:15.3097 INFO Mostrando todos los componentes
+2023-08-23 11:02:09.2947 INFO Mostrando todos los componentes
+2023-08-23 11:20:56.4364 INFO Mostrando ventana de creacion
+2023-08-23 14:15:16.2024 INFO Mostrando todos los componentes
+2023-08-23 14:34:58.0751 INFO Mostrando ventana de creacion
+2023-08-23 14:41:08.6228 INFO Mostrando todos los componentes
+2023-08-23 14:41:12.8710 INFO Mostrando ventana de creacion
+2023-08-23 14:44:24.2936 INFO Mostrando todos los componentes
+2023-08-23 14:44:27.2303 INFO Mostrando ventana de creacion
+2023-08-23 14:46:15.7023 INFO Mostrando todos los componentes
+2023-08-23 14:46:16.9160 INFO Mostrando ventana de creacion
+2023-08-23 14:47:12.7808 INFO Mostrando ventana de creacion
+2023-08-23 14:49:17.9492 INFO Mostrando ventana de creacion

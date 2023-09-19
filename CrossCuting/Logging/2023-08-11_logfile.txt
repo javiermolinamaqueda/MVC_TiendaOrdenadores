@@ -1,0 +1,6 @@
+2023-08-11 12:54:13.0921 INFO Mostrando ventana de creacion
+2023-08-11 13:03:35.2922 INFO Mostrando ventana de creacion
+2023-08-11 13:12:42.9848 INFO Mostrando ventana de creacion
+2023-08-11 13:15:14.1666 INFO Mostrando ventana de creacion
+2023-08-11 14:05:46.9163 INFO Mostrando ventana de creacion
+2023-08-11 14:07:07.6427 INFO Mostrando ventana de creacion

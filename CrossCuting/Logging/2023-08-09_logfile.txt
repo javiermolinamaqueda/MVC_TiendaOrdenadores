@@ -1,0 +1,22 @@
+2023-08-09 09:30:38.7228 INFO Mostrando ventana de creacion
+2023-08-09 09:31:33.3404 ERROR No se ha podido crear el componente
+2023-08-09 10:06:54.4849 INFO Mostrando ventana de creacion
+2023-08-09 10:08:47.7511 INFO Mostrando ventana de creacion
+2023-08-09 10:11:24.1604 INFO Mostrando ventana de creacion
+2023-08-09 10:11:50.9864 ERROR No se ha podido crear el componente
+2023-08-09 10:12:34.8635 INFO Mostrando todos los componentes
+2023-08-09 10:12:36.8347 INFO Mostrando ventana de creacion
+2023-08-09 10:17:31.7295 INFO Mostrando ventana de creacion
+2023-08-09 10:20:18.7268 INFO Mostrando ventana de creacion
+2023-08-09 10:20:41.9448 ERROR No se ha podido crear el componente
+2023-08-09 10:24:26.8229 INFO Mostrando ventana de creacion
+2023-08-09 10:26:35.8903 INFO Mostrando ventana de creacion
+2023-08-09 10:27:45.7622 INFO Mostrando ventana de creacion
+2023-08-09 14:52:27.0721 INFO Mostrando ventana de creacion
+2023-08-09 14:52:31.2826 INFO Mostrando todos los componentes
+2023-08-09 14:52:41.4485 INFO Mostrando ventana de creacion
+2023-08-09 14:54:11.6818 INFO Mostrando todos los componentes
+2023-08-09 14:54:13.2339 INFO Mostrando ventana de creacion
+2023-08-09 14:54:48.5657 ERROR No se ha podido crear el componente
+2023-08-09 14:56:41.7129 INFO Mostrando todos los componentes
+2023-08-09 14:56:43.0310 INFO Mostrando ventana de creacion

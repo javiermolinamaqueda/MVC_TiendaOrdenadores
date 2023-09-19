@@ -1,0 +1,5 @@
+2023-08-10 08:20:27.3362 INFO Mostrando todos los componentes
+2023-08-10 11:11:49.9947 INFO Mostrando todos los componentes
+2023-08-10 11:11:52.1392 INFO Mostrando ventana de creacion
+2023-08-10 11:12:07.5483 INFO Mostrando todos los componentes
+2023-08-10 11:13:20.1446 INFO Mostrando todos los componentes

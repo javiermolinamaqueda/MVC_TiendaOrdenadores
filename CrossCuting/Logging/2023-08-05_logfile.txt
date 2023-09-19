@@ -1,0 +1,136 @@
+2023-08-05 00:34:37.7179 INFO Mostrando todos los componentes
+2023-08-05 01:32:16.6197 INFO Mostrando todos los componentes
+2023-08-05 01:39:05.1204 INFO Mostrando todos los componentes
+2023-08-05 01:39:06.9658 INFO Mostrando ventana de creacion
+2023-08-05 01:40:32.6966 INFO Mostrando todos los componentes
+2023-08-05 14:16:37.7547 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:16:37.8540 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:16:37.8540 INFO Mostrando todos los componentes
+2023-08-05 14:21:51.6768 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:21:51.7471 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:21:51.7471 INFO Mostrando todos los componentes
+2023-08-05 14:22:59.8165 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:22:59.8894 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:22:59.8894 INFO Mostrando todos los componentes
+2023-08-05 14:25:59.8034 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:25:59.8672 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:25:59.8672 INFO Mostrando todos los componentes
+2023-08-05 14:28:00.3168 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:28:00.3663 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:28:00.3663 INFO Mostrando todos los componentes
+2023-08-05 14:34:34.6297 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:34:34.6796 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:34:34.6796 INFO Mostrando todos los componentes
+2023-08-05 14:39:55.9574 INFO Mostrando ventana de creacion
+2023-08-05 14:39:56.0263 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:39:56.0263 INFO Mostrando todos los componentes
+2023-08-05 14:39:56.0263 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:40:19.2092 INFO Mostrando ventana de creacion
+2023-08-05 14:40:19.2461 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:40:19.2461 INFO Mostrando todos los componentes
+2023-08-05 14:40:19.2461 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:47:34.7857 INFO Mostrando ventana de creacion
+2023-08-05 14:47:34.8237 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:47:34.8237 INFO Mostrando todos los componentes
+2023-08-05 14:47:34.8237 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:48:15.1759 INFO Mostrando ventana de creacion
+2023-08-05 14:48:15.1922 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:48:15.1922 INFO Mostrando todos los componentes
+2023-08-05 14:48:15.2086 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:57:37.6765 INFO Mostrando ventana de creacion
+2023-08-05 14:57:37.6942 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 14:57:37.6942 INFO Mostrando todos los componentes
+2023-08-05 14:57:37.7097 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:02:46.5053 INFO Mostrando ventana de creacion
+2023-08-05 15:02:46.5230 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:02:46.5230 INFO Mostrando todos los componentes
+2023-08-05 15:02:46.5230 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:03:35.2602 INFO Mostrando ventana de creacion
+2023-08-05 15:03:35.2862 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:03:35.2862 INFO Mostrando todos los componentes
+2023-08-05 15:03:35.2862 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:04:09.9739 INFO Mostrando ventana de creacion
+2023-08-05 15:04:10.0039 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:04:10.0039 INFO Mostrando todos los componentes
+2023-08-05 15:04:10.0039 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:57:22.1293 INFO Mostrando ventana de creacion
+2023-08-05 15:57:22.1465 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:57:22.1863 INFO Mostrando todos los componentes
+2023-08-05 15:57:22.1863 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:59:23.1604 INFO Mostrando ventana de creacion
+2023-08-05 15:59:23.1933 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 15:59:23.2212 INFO Mostrando todos los componentes
+2023-08-05 15:59:23.2212 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:01:30.5511 INFO Mostrando ventana de creacion
+2023-08-05 16:01:30.5842 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:01:30.6112 INFO Mostrando todos los componentes
+2023-08-05 16:01:30.6112 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:02:39.9731 INFO Mostrando ventana de creacion
+2023-08-05 16:02:40.0062 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:02:40.0351 INFO Mostrando todos los componentes
+2023-08-05 16:02:40.0351 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:03:21.8638 INFO Mostrando ventana de creacion
+2023-08-05 16:03:21.8813 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:03:21.9124 INFO Mostrando todos los componentes
+2023-08-05 16:03:21.9124 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:04:45.4425 INFO Mostrando ventana de creacion
+2023-08-05 16:04:45.4582 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:04:45.4894 INFO Mostrando todos los componentes
+2023-08-05 16:04:45.4894 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:05:19.9116 INFO Mostrando ventana de creacion
+2023-08-05 16:05:19.9258 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:05:19.9598 INFO Mostrando todos los componentes
+2023-08-05 16:05:19.9598 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:09:05.9580 INFO Mostrando ventana de creacion
+2023-08-05 16:09:05.9882 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:09:05.9882 INFO Mostrando todos los componentes
+2023-08-05 16:09:05.9882 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:15:11.4103 INFO Mostrando ventana de creacion
+2023-08-05 16:15:11.4272 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:15:11.4564 INFO Mostrando todos los componentes
+2023-08-05 16:15:11.4564 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:20:03.4411 INFO Mostrando ventana de creacion
+2023-08-05 16:20:03.4580 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:20:03.4906 INFO Mostrando todos los componentes
+2023-08-05 16:20:03.4906 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:25:53.9418 INFO Mostrando ventana de creacion
+2023-08-05 16:25:53.9602 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:25:53.9911 INFO Mostrando todos los componentes
+2023-08-05 16:25:53.9911 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:26:48.4883 INFO Mostrando ventana de creacion
+2023-08-05 16:26:48.5049 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:26:48.5320 INFO Mostrando todos los componentes
+2023-08-05 16:26:48.5320 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:27:09.7868 INFO Mostrando ventana de creacion
+2023-08-05 16:27:09.8166 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:27:09.8389 INFO Mostrando todos los componentes
+2023-08-05 16:27:09.8389 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:28:04.6313 INFO Mostrando ventana de creacion
+2023-08-05 16:28:04.6490 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:28:04.6718 INFO Mostrando todos los componentes
+2023-08-05 16:28:04.6718 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:28:41.6926 INFO Mostrando ventana de creacion
+2023-08-05 16:28:41.7089 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:28:41.7238 INFO Mostrando todos los componentes
+2023-08-05 16:28:41.7238 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:39:03.9575 INFO Mostrando ventana de creacion
+2023-08-05 16:39:03.9944 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:39:03.9944 INFO Mostrando todos los componentes
+2023-08-05 16:39:04.0328 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:53:56.4754 INFO Mostrando todos los componentes
+2023-08-05 16:53:58.5049 INFO Mostrando ventana de creacion
+2023-08-05 16:59:40.4886 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:59:40.5813 INFO Mostrando detalles del componente con id: {id}
+2023-08-05 16:59:40.5954 INFO Mostrando todos los componentes
+2023-08-05 16:59:40.5982 INFO Mostrando ventana de creacion
+2023-08-05 20:15:09.8025 INFO Mostrando todos los componentes
+2023-08-05 20:15:17.1876 INFO Mostrando ventana de creacion
+2023-08-05 20:16:25.7236 INFO Mostrando todos los componentes
+2023-08-05 20:16:27.6952 INFO Mostrando ventana de creacion
+2023-08-05 20:40:44.1921 INFO Mostrando todos los componentes
+2023-08-05 20:40:59.9543 INFO Mostrando todos los componentes
+2023-08-05 20:41:01.6163 INFO Mostrando ventana de creacion
+2023-08-05 20:46:31.4433 INFO Mostrando todos los componentes
+2023-08-05 20:51:31.4109 INFO Mostrando todos los componentes
+2023-08-05 20:51:52.9807 INFO Mostrando todos los componentes
+2023-08-05 21:19:40.4441 INFO Mostrando todos los componentes

@@ -1,0 +1,34 @@
+﻿@model MVC_ComponenteCodeFirst.Models.Ordenador
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+
+<h4>Pedido</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Ordenadores" asp-action="EditPedidoId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label">Add Pc</label>
+                <select asp-for="Id" class ="form-control" asp-items="ViewBag.OrdenadorId"></select>
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <input type="hidden" name="PedidoId" value="@ViewData["PedidoId"]" />
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

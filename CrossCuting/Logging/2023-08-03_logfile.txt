@@ -1,0 +1,5 @@
+2023-08-03 13:25:27.8709 INFO Mostrando todos los componentes
+2023-08-03 13:25:30.7259 INFO Mostrando detalles del componente con id: {id}
+2023-08-03 13:25:32.3222 INFO Mostrando todos los componentes
+2023-08-03 13:25:34.0525 INFO Mostrando ventana de creacion
+2023-08-03 13:25:35.3837 INFO Mostrando todos los componentes

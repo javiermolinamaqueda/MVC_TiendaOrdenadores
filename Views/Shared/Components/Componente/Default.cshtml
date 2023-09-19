@@ -1,0 +1,42 @@
+﻿@model Componente
+
+    <td>
+        @((TipoComponente)Model.TipoComponente)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Descripcion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Serie)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => Model.Precio)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Calor)
+    </td>
+    <td>
+        @if (Model.Almacenamiento == 0)
+        {
+            @("-")
+        }
+        else
+        {
+            @Html.DisplayFor(modelItem => Model.Almacenamiento) @(" MB")
+
+
+        }
+
+
+    </td>
+    <td>
+        @if (Model.Cores == 0)
+        {
+            @("-")
+        }
+        else
+        {
+            @Html.DisplayFor(modelItem => Model.Cores)
+        }
+    </td>
